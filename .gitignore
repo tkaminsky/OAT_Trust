@@ -2,6 +2,10 @@
 *.npy
 *.png 
 
+*/.DS_Store
+*/.ipynb_checkpoints
+*/.vscode
+
 # Subdirectories of media
 media/
 finished_configs/*.yaml
