@@ -6,6 +6,7 @@ Here's a super quick overview of the repo's functionality.
 * [Graphs](#graphs)
 * [Configs](#configs)
 * [Running Experiments](#configs)
+* [Sampling](#sampling)
 
 
 ## Graphs
