@@ -1,6 +1,0 @@
-graph: ER_20_0.2
-x_inits: zeros
-m: 1
-eta: 1
-enforce_symmetry: False
-root_dir: 'block_experiments'

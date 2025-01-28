@@ -1,6 +1,0 @@
-graph: ER_5_0.5
-x_inits: alternating
-m: 1
-eta: 1
-enforce_symmetry: False
-root_dir: 'block_experiments'

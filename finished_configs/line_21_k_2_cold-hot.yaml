@@ -1,7 +1,0 @@
-graph: line_21
-x_inits: cold-hot
-m: 1
-eta: 1
-enforce_symmetry: False
-k: 2
-root_dir: 'big_k_experiments'

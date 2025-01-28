@@ -1,7 +1,0 @@
-graph: line_10
-x_inits: zeros
-m: 1
-eta: 1
-enforce_symmetry: False
-k: 3
-root_dir: 'big_k_experiments'
