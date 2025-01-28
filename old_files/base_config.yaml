@@ -1,0 +1,7 @@
+graph: "medium_line"
+m: 1
+eta: 1
+samples_log_2: 21
+enforce_symmetry: False
+x_inits: "cold-hot"
+root_dir: "block_experiments"

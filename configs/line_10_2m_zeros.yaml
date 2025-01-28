@@ -1,0 +1,8 @@
+graph: line_10
+x_inits: zeros
+m: 1
+eta: 1
+enforce_symmetry: False
+k: 2
+root_dir: 'extra_interesting_experiments'
+H: 20

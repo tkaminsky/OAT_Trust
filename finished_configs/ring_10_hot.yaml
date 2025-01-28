@@ -1,0 +1,6 @@
+graph: ring_10
+x_inits: hot
+m: 1
+eta: 1
+enforce_symmetry: False
+root_dir: 'block_experiments'

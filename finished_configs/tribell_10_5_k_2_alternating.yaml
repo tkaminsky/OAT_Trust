@@ -1,0 +1,7 @@
+graph: tri_bell
+x_inits: alternating
+m: 1
+eta: 1
+enforce_symmetry: False
+k: 2
+root_dir: 'extra_interesting_experiments'

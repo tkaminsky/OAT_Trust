@@ -1,3 +1,11 @@
+# Big files from experiment output
+*.npy
+*.png 
+
+# Subdirectories of media
+media/*
+finished_scripts/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +177,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+

@@ -1,0 +1,6 @@
+graph: ER_10_0.7
+x_inits: cold-hot
+m: 1
+eta: 1
+enforce_symmetry: False
+root_dir: 'block_experiments'
