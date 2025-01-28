@@ -4,7 +4,7 @@
 
 # Subdirectories of media
 media/
-finished_configs/*
+finished_configs/*.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
