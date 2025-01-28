@@ -3,7 +3,7 @@
 *.png 
 
 # Subdirectories of media
-media/*
+media/
 finished_configs/
 
 # Byte-compiled / optimized / DLL files
